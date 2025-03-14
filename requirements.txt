@@ -1,0 +1,8 @@
+streamlit
+pillow
+pandas
+numpy
+matplotlib
+requests
+json5 
+streamlit-lottie
