@@ -1,3 +1,4 @@
+#pip install -r requirements.txt
 streamlit
 pillow
 pandas
@@ -6,3 +7,5 @@ matplotlib
 requests
 json5 
 streamlit-lottie
+os
+python-dotenv
